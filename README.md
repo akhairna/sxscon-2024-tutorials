@@ -1,5 +1,8 @@
 # Tutorials at SXScon 2024
 
+The videos of the lecture sessions during SXSCon are located
+[here](https://icerm.brown.edu/program/topical_workshop/tw-24-ses#section-3).
+
 This repo contains workshop material like Jupyter notebooks and input files used
 for the SXS workshop at ICERM. It should be cloned on Oscar, the cluster at
 Brown which we will be using. To access Oscar, see
